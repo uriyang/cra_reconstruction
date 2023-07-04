@@ -1,6 +1,7 @@
 {
   "sourceType": "unambiguous",
   "presets": [
+    "react-app",
     [
       "@babel/preset-env",
       {
